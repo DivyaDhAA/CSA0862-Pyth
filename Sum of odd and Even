@@ -1,0 +1,11 @@
+#Sum of odd and Even
+sume=0
+sumo=0
+a=int(input("Enter a Range:"))
+for i in range(1,a+1,1):
+    if(i%2==0):
+        sume+=i
+    else:
+        sumo+=i
+print("Sum of Odd:", sumo)
+print("Sum of Even:",sume)
