@@ -1,0 +1,4 @@
+l=eval(input("Enter a Length: "))
+b=eval(input("Enter a Breath: "))
+area=l*b
+print("The Area of Rectangle:", area)
