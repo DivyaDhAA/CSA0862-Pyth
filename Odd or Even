@@ -1,0 +1,6 @@
+#Odd or Even
+a=eval(input("Enter a Numb:"))
+if(a%2==0):
+    print(a,"is Even Numb")
+else:
+    print(a, "is Odd Num")
