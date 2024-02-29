@@ -1,0 +1,5 @@
+r=eval(input("Enter the Radius: "))
+area=2*3.14*r*r
+curf=2*3.14*r
+print("The area of Circle:",area)
+print("The Circuferance of Circle:",curf)
